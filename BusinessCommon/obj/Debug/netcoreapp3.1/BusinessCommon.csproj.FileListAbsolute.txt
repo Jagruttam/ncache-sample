@@ -1,0 +1,10 @@
+C:\Users\Anuradha.Prajapati\source\repos\BusinessCommon\bin\Debug\netcoreapp3.1\BusinessCommon.deps.json
+C:\Users\Anuradha.Prajapati\source\repos\BusinessCommon\bin\Debug\netcoreapp3.1\BusinessCommon.dll
+C:\Users\Anuradha.Prajapati\source\repos\BusinessCommon\bin\Debug\netcoreapp3.1\BusinessCommon.pdb
+C:\Users\Anuradha.Prajapati\source\repos\BusinessCommon\obj\Debug\netcoreapp3.1\BusinessCommon.csproj.AssemblyReference.cache
+C:\Users\Anuradha.Prajapati\source\repos\BusinessCommon\obj\Debug\netcoreapp3.1\BusinessCommon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anuradha.Prajapati\source\repos\BusinessCommon\obj\Debug\netcoreapp3.1\BusinessCommon.AssemblyInfoInputs.cache
+C:\Users\Anuradha.Prajapati\source\repos\BusinessCommon\obj\Debug\netcoreapp3.1\BusinessCommon.AssemblyInfo.cs
+C:\Users\Anuradha.Prajapati\source\repos\BusinessCommon\obj\Debug\netcoreapp3.1\BusinessCommon.csproj.CoreCompileInputs.cache
+C:\Users\Anuradha.Prajapati\source\repos\BusinessCommon\obj\Debug\netcoreapp3.1\BusinessCommon.dll
+C:\Users\Anuradha.Prajapati\source\repos\BusinessCommon\obj\Debug\netcoreapp3.1\BusinessCommon.pdb
