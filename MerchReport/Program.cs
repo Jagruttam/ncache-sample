@@ -55,7 +55,7 @@ namespace MerchReport
             Task.WaitAll(tasks.ToArray());
             Console.WriteLine("Time to fetch values = " + $"{Watch.ElapsedMilliseconds}ms");
             Watch.Stop();
-            Console.WriteLine("Total Time taken = " + $"{MainWatch.ElapsedMilliseconds}ms");
+            Console.WriteLine("Total Time taken = " + $"{MainWatch.ElapsedMilliseconds}ms for {data.Count} records");
             Watch.Stop();
             var totalRows = data.Count;
         }
